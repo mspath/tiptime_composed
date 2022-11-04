@@ -18,8 +18,8 @@ This is the third app of the [Android Basics with Compose] course from Google, s
 Environment
 
 - Kotlin 1.7.0
-- Android Studio Chipmunk 2021.2.1
-- Gradle Plugin 7.2.2
+- Android Studio Dolphin 2021.3.1
+- Gradle Plugin 7.3.0
 
 ----
 
