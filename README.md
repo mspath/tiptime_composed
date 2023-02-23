@@ -16,8 +16,8 @@ This is the third app of the [Android Basics with Compose] course from Google, s
 Environment
 
 - Kotlin 1.7.20
-- Android Studio Dolphin 2021.3.1
-- Gradle Plugin 7.3.1
+- Android Studio Electric Eel 2022.1.1
+- Gradle Plugin 7.4.1
 
 ---
 
@@ -25,5 +25,5 @@ Environment
 language: kotlin
 repo: tiptimecomposed
 status: archived
-updated: 2022-12-03
+updated: 2023-02-23
 ```
