@@ -23,7 +23,7 @@ Environment
 
 ```
 language: kotlin
-repo: tiptimecomposed
+repo: tiptime_composed
 status: archived
 updated: 2023-04-04
 ```
